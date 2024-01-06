@@ -1,4 +1,4 @@
-# AC50002 Python GROW Sensor Map Assignment
+# AC50002 Python Map Assignment
 ### By Elise Coubrough (160007408)
 
 <br/>
